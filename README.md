@@ -1,2 +1,2 @@
-# Weather-Report
-It is a weather report website developed on html css javascript  
+# HTML-CSS-JS
+This Repository consists of various Basic HTML , CSS , JS Project .  
